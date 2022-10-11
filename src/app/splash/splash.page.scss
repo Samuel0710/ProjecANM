@@ -1,0 +1,19 @@
+ion-content{
+    --background: rgb(197, 197, 58);
+
+};
+.goku{
+    animation: churros 2.1s infinite alternate;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    display: block;
+};
+@keyframes churros {
+    0%{
+        transform: translate(0px,10px);
+    }
+    100%{
+        transform: translate(0px,-10px);
+    }
+}
