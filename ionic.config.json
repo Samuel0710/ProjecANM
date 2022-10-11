@@ -1,0 +1,7 @@
+{
+  "name": "ProjecANM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
