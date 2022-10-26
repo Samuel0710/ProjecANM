@@ -1,3 +1,4 @@
+import { Animes } from 'src/app/model/animeMo.model';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
